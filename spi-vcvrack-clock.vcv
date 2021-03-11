@@ -111,6 +111,7 @@
         "lastMod": 0,
         "midi": {
           "driver": 4,
+          "deviceName": "loopmidi-01 0",
           "channel": -1
         }
       },
@@ -465,6 +466,14 @@
       "outputModuleId": 3,
       "outputId": 1,
       "inputModuleId": 2,
+      "inputId": 1,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 273,
+      "outputModuleId": 5,
+      "outputId": 7,
+      "inputModuleId": 127,
       "inputId": 1,
       "color": "#0c8e15"
     }
